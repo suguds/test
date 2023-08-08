@@ -9,12 +9,12 @@
 
 仓库地址：[https://github.com/mikecabana/express-ts-starter](https://github.com/mikecabana/express-ts-starter)
 
-| 星星：2                  | 关注：0              | 叉分：0             |
+| star：2                  | watch：0              | fork：0             |
 | ------------------------ | -------------------- | ------------------- |
 | 所有者：用户             | 更新时间：2023-02-20 | 许可证：MIT License |
 | 最近检测时间：2023-08-07 | 组件总数：242        | 漏洞总数：2         |
 
-
+> 点击徽章可查看详细项目安全报告
 
 ## 漏洞列表
 
