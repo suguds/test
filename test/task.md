@@ -3,7 +3,7 @@
 
 ## 基础信息
 
-[![Security Status](https://www.murphysec.com/platform3/v31/badge/1688458881864192000.svg)](https://www.murphysec.com/console/report/1688458881469927425/1688458881864192000)
+项目徽章：[![Security Status](https://www.murphysec.com/platform3/v31/badge/1688458881864192000.svg)](https://www.murphysec.com/console/report/1688458881469927425/1688458881864192000)
 
 仓库描述：A super simple Express starter project using Typescript. Includes VSCode debug config and Dockerfile. ✨
 
