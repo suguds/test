@@ -1,6 +1,5 @@
 # mikecabana/express-ts-starter安全风险及SBOM
 
-[TOC]
 
 ## 基础信息
 
